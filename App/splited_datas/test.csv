@@ -1,4 +1,4 @@
-,Umur (bulan),Jenis Kelamin,Tinggi Badan (cm),Status Gizi
+,age(month),gender,height(cm),status
 17917,8,perempuan,70.1,normal
 6976,3,laki-laki,65.4,normal
 37592,19,laki-laki,72.9,severely stunted
